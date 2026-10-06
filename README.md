@@ -5,9 +5,9 @@
 
 > **一站式轻量化生产力聚合系统 | One-Stop Lightweight Productivity & AI Toolkit**
 
-[![GitHub Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?include_prereleases&style=flat-square&color=blue)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/kale301/bjadmin?include_prereleases&style=flat-square&color=blue)](https://github.com/kale301/bjadmin/releases)
 [![License](https://img.shields.io/badge/license-Commercial-red.svg?style=flat-square)](LICENSE)
-[![Price](https://img.shields.io/badge/Price-1%20RMB%2FMonth-success?style=flat-square)]()
+[![Price](https://img.shields.io/badge/Price-First%20Month%20FREE!-success?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square)]()
 
 [**📥 立即下载安装包 / Download Installer**](#-下载与安装--download--installation) | [**💬 技术支持 / Support**](#-联系与支持--contact--support)
@@ -76,7 +76,8 @@ Due to the large size of the installer package (>300MB), the compiled release is
 
 ## 💰 价格与服务说明 | Pricing & Terms
 
-*   **体验价格 (Price):** 仅需 **1元/月 (1 RMB/Month)**，极致性价比，解放日常办公生产力。
+*   **🎁 福利活动 (Special Offer):** **新用户注册首月免费体验！(First month FREE for new users!)** 赶快下载体验全功能。
+*   **常规价格 (Standard Price):** 体验价仅需 **9.9元/月 (9.9 RMB/Month)**，极致性价比，解放日常办公生产力。
 *   **重要声明 (Important Note):** 
     *   🇨🇳 基础订阅价格**明确不包含**“本地 AI 模型配置技术指导”服务。若涉及复杂本地大模型部署，请自行查阅相关文档或具备基础配置能力。
     *   🇬🇧 The basic subscription price **does not include** technical guidance for local AI model configuration. Users are expected to have basic deployment knowledge for advanced local AI setups.
